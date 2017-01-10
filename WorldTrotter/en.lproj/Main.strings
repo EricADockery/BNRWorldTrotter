@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "is really"; ObjectID = "13Y-lb-ZW8"; */
+"13Y-lb-ZW8.text" = "is really";
+
+/* Class = "UITabBarItem"; title = "Convert"; ObjectID = "5BB-yd-nyC"; */
+"5BB-yd-nyC.title" = "Convert";
+
+/* Class = "UIButton"; normalTitle = "Pin Drop"; ObjectID = "77e-Mg-bmO"; */
+"77e-Mg-bmO.normalTitle" = "Pin Drop";
+
+/* Class = "UITabBarItem"; title = "BNR Web"; ObjectID = "QRR-yh-V7z"; */
+"QRR-yh-V7z.title" = "BNR Web";
+
+/* Class = "UITabBarController"; title = "Convert"; ObjectID = "V6u-Lc-iWd"; */
+"V6u-Lc-iWd.title" = "Convert";
+
+/* Class = "UILabel"; text = "degrees Celsius"; ObjectID = "ZyP-7b-QOA"; */
+"ZyP-7b-QOA.text" = "degrees Celsius";
+
+/* Class = "UILabel"; text = "degrees Fahrenheit"; ObjectID = "gnc-8y-nLL"; */
+"gnc-8y-nLL.text" = "degrees Fahrenheit";
+
+/* Class = "UIButton"; normalTitle = "Find Me!"; ObjectID = "viI-Rs-i8k"; */
+"viI-Rs-i8k.normalTitle" = "Find Me!";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "x6c-Yi-0hq"; */
+"x6c-Yi-0hq.text" = "100";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "yK6-MN-GWH"; */
+"yK6-MN-GWH.title" = "Map";
